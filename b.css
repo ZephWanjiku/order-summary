@@ -1,0 +1,77 @@
+.pine {position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    height: 70vh;
+    width: 40vh;
+    border-radius: 16px;
+}
+
+.cone {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+.cone h4{
+    margin-bottom:-10px ;
+    margin-top: 2px;
+    padding-bottom: 0;
+}
+
+.jump {
+    background-color: blue;
+    color: white;
+    margin-bottom: 10px;
+    margin-left: 70px;
+    border-radius: 9px;
+    padding: 10px;
+    border: none;
+    
+}
+
+.swim {
+    background-color: white;
+    margin-left: 90px;
+    border-radius: 20px;
+    border: none;
+    color: grey;
+}
+
+.dome {
+   flex-direction: row; 
+}
+
+.pin {
+    color: blue;
+}
+.sin {
+    height: 20vh;
+    width: 40vh;
+     border-top-right-radius: 20px;
+     border-top-left-radius: 20px;
+}
+
+.adolf {
+    color: grey;
+}
+
+.galileo {
+    padding: 0px;
+    justify-content: center;
+    margin-bottom: 0px;
+}
+
+.main {
+    color: grey;
+}
+
+.you {
+    border-radius: 20px;
+}
+
+body {
+    background-image: url(./pattern-background-desktop.svg);
+}
